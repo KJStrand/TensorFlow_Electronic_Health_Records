@@ -1,0 +1,7 @@
+00
+Caucasian
+AfricanAmerican
+?
+Other
+Asian
+Hispanic
