@@ -1,4 +1,4 @@
-# TensorFlow_Electronic_Health_Records
+# Analyzing Electronic Health Records with TensorFlow Probability
 
 **Summary**
 
